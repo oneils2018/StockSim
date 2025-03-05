@@ -1,0 +1,1 @@
+{"portfolioName":"port1test","stocks":{"A":1.0},"creationDate":"2022-11-02"}

@@ -1,0 +1,1 @@
+{"portfolioName":"input","stocks":{"AAPL":2,"EXPE":3},"creationDate":"2020-11-02","commission":0.1}

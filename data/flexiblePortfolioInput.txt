@@ -1,0 +1,1 @@
+{"portfolioName":"flexiblePortfolioInput","stocks":{"AAPL":2,"EXPE":3},"creationDate":"2020-11-02","commission":0.3,"portfolioEvents":[{"creationDate":"2022-11-05","tickerSymbol":"EXPE","quantity":3,"commission":0.0,"purchase":true}],"initialCostBasis":297.58}
